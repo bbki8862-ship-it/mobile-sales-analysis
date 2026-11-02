@@ -1,0 +1,18 @@
+# Core Data Processing and Numerical Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Statistical Analysis & Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.18.0
+
+# Interactive Web Application Dashboard
+streamlit>=1.30.0
+
+# Jupyter Notebook Environment & Tooling
+nbformat>=5.9.0
+ipykernel>=6.20.0
+
+# Big Data Distributed Computing (Optional / Module-Supported)
+pyspark>=3.4.0
